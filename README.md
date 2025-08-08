@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrrongalang@gmail.com)
 
 
-### 📊 GitHub Stats
-
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinron31&theme=dark&hide_border=false&layout=compact" alt="GitHub Stats" />
