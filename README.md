@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Justin Ron Galang  
-**Web Developer**  
+**Software Engineer**  
 
 💻 From the Philippines, passionate about building **interactive**, **accessible**, and **user-friendly** websites.  
 🎯 Focused on **clean code**, **efficient solutions**, and crafting experiences that users love.  
