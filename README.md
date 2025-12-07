@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Justin Ron Galang  
+# 👋 Hi, I'm Ron  
 **Software Engineer**  
 
 💻 From the Philippines, passionate about building **interactive**, **accessible**, and **user-friendly** websites.  
@@ -13,8 +13,6 @@
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinron31&theme=dark&hide_border=false&layout=compact" alt="GitHub Stats" />
 
 <img src="https://github.com/justinron31/justinron31/blob/main/spider.gif" alt="Spider-Man GIF" width="200"/>
 
