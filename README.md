@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Ron  
+# Warrup, I'm Ron  
 **Software Engineer**  
 
-💻 From the Philippines, passionate about building **interactive**, **accessible**, and **user-friendly** websites.  
-🎯 Focused on **clean code**, **efficient solutions**, and crafting experiences that users love.  
+From the Philippines, passionate about building **interactive**, **accessible**, and **user-friendly** websites.  
+Focused on **clean code**, **efficient solutions**, and crafting experiences that users love.  
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/justingalang1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinron)
