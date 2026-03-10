@@ -3,8 +3,7 @@
 # Warrup, I'm Ron  
 **Software Engineer**  
 
-From the Philippines, passionate about building **interactive**, **accessible**, and **user-friendly** websites.  
-Focused on **clean code**, **efficient solutions**, and crafting experiences that users love.  
+Building accessible, high-performance web experiences from the Philippines. Focused on clean architecture, scalable solutions, and seamless user interaction.  
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/justingalang1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinron)
